@@ -1,16 +1,97 @@
-## Hi there 👋
+<h1 align="center">Hey 👋 I'm Nilay Raj</h1>
 
-<!--
-**NilayOverp94/NilayOverp94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+AI Builder • Cybersecurity Enthusiast • Full Stack Developer
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Products;Cybersecurity+Enthusiast;Full+Stack+Developer;Hackathon+Builder;Always+Learning..." />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🧠 18-year-old AI Builder from New Delhi, India
+- 🤖 Passionate about Artificial Intelligence & Cybersecurity
+- 💻 Building products that solve real-world problems
+- 🌱 Currently learning AI Engineering & AI Red Teaming
+- 🎯 Goal: Build intelligent software people can trust.
+
+---
+
+## 🌐 Portfolio
+
+🔗 **Portfolio:** https://nilayraj.netlify.app
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,git,github,linux,firebase,supabase,vscode"/>
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🛡 SafeLens AI
+AI-powered cybersecurity platform that detects phishing links, scams, fake screenshots, and suspicious messages.
+
+### 📚 JEElytics
+Personalized AI-powered learning platform designed for JEE aspirants.
+
+### 📊 PercentagePro
+Professional percentage, GST, and profit/loss calculator.
+
+### 🌐 Personal Portfolio
+Modern cyberpunk-themed portfolio showcasing projects, hackathons, and technical skills.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NilayOverp94&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NilayOverp94&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=NilayOverp94&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/not-nilay-rv">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/NilayRa0p">
+<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://nilayraj.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+> **"Think Beyond Code. Build for People."**
