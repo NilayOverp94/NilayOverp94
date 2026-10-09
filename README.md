@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="./assets/banner.png" width="100%">
-</p>
-
-<h1 align="center">Hey 👋 I'm Nilay Raj</h1>
+<h1 align="center">Hey I'm Nilay Raj</h1>
 
 <h3 align="center">
 AI Builder • Cybersecurity Enthusiast • Full Stack Developer
@@ -14,23 +10,23 @@ AI Builder • Cybersecurity Enthusiast • Full Stack Developer
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🧠 18-year-old AI Builder from New Delhi, India
-- 🤖 Passionate about Artificial Intelligence & Cybersecurity
-- 💻 Building products that solve real-world problems
-- 🌱 Currently learning AI Engineering & AI Red Teaming
-- 🎯 Goal: Build intelligent software people can trust.
+-  18-year-old AI Builder from New Delhi, India
+-  Passionate about Artificial Intelligence & Cybersecurity
+-  Building products that solve real-world problems
+-  Currently learning AI Engineering & AI Red Teaming
+-  Goal: Build intelligent software people can trust.
 
 ---
 
-## 🌐 Portfolio
+##  Portfolio
 
 🔗 **Portfolio:** https://nilayraj.netlify.app
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 <p align="center">
 
@@ -40,23 +36,23 @@ AI Builder • Cybersecurity Enthusiast • Full Stack Developer
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🛡 SafeLens AI
+###  SafeLens AI
 AI-powered cybersecurity platform that detects phishing links, scams, fake screenshots, and suspicious messages.
 
-### 📚 JEElytics
+###  JEElytics
 Personalized AI-powered learning platform designed for JEE aspirants.
 
-### 📊 PercentagePro
+###  PercentagePro
 Professional percentage, GST, and profit/loss calculator.
 
-### 🌐 Personal Portfolio
+###  Personal Portfolio
 Modern cyberpunk-themed portfolio showcasing projects, hackathons, and technical skills.
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
 
@@ -68,7 +64,7 @@ Modern cyberpunk-themed portfolio showcasing projects, hackathons, and technical
 
 ---
 
-## 🔥 GitHub Streak
+##  GitHub Streak
 
 <p align="center">
 
@@ -78,7 +74,7 @@ Modern cyberpunk-themed portfolio showcasing projects, hackathons, and technical
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <p align="center">
 
