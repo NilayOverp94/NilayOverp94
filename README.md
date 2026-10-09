@@ -12,7 +12,7 @@ AI Builder • Cybersecurity Enthusiast • Full Stack Developer
 
 ##  About Me
 
--  18-year-old AI Builder from New Delhi, India
+-  20-year-old AI Builder from New Delhi, India
 -  Passionate about Artificial Intelligence & Cybersecurity
 -  Building products that solve real-world problems
 -  Currently learning AI Engineering & AI Red Teaming
