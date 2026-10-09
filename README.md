@@ -9,7 +9,7 @@ AI Builder • Cybersecurity Enthusiast • Full Stack Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Products;Cybersecurity+Enthusiast;Full+Stack+Developer;Hackathon+Builder;Always+Learning..." />
+<img src="https://nilayraj.netlify.app/nilay-raj-founder-jeelytics.webp" />
 </p>
 
 ---
